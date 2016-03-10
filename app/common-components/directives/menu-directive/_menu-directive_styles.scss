@@ -118,6 +118,11 @@ menu-directive
 	background-color: transparent;
 
 	color: $white;
+	.section-title-inner,
+	.sorting-option-title
+	{
+		background: rgba(0,0,0,0.5);
+	}
 
 	.search input
 	{
